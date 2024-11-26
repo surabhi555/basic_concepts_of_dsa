@@ -5,3 +5,4 @@
 #ArrayScope 
 #linear Search
 #reverse
+swap alternate element in array
