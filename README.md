@@ -1,8 +1,5 @@
-#DAY 2
+#DAY 3
 #SOLVED
-#ARRAY DECLARATION ,INITIALIATION 
-#MAXIMUM AND MINIMUM ELEMENT OF ARRAY
-#ArrayScope 
-#linear Search
-#reverse
-swap alternate element in array
+intersecton of arrays
+binary search
+find duplicate in array

@@ -10,14 +10,16 @@ int binarySearch(int arr[],int n,int key){
             }
     else if(arr[mid]>key){
        start=mid+1;
-       mid=(start+end)/2;
+       
 
     }
     else{
         end=mid-1;
-        mid=(start+end)/2;
+        
     }
+    mid=(start+end)/2;
    }
+   return -1;
 
 }
 void printArray(int arr[],int n){
