@@ -1,5 +1,4 @@
-#DAY 3
+#DAY 4
 #SOLVED
-intersecton of arrays
-binary search
-find duplicate in array
+binary search apllications
+first and last occurence in array
