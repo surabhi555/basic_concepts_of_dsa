@@ -1,5 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
+
+//time complexity:logn
 int binarySearch(int arr[],int n,int key){
     int start=0;
     int end=n-1;
