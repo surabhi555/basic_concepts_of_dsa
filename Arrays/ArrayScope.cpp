@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+//arrayscope
 void printArray(int arr[],int n){
     //in the print function
     arr[0]=12000;
