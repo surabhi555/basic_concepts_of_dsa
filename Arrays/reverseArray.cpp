@@ -1,5 +1,11 @@
 #include<bits/stdc++.h>
 using namespace std;
+
+/*
+Given an array arr[], the task is to reverse the array. 
+Reversing an array means rearranging the elements such that the first element becomes
+ the last, the second element becomes second last and so on.
+*/
 void reverse(int arr[],int n){
     int start=0;
     int end=n-1;

@@ -1,5 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
+
+/*
+Given an array, arr of n integers, and an integer element x, find whether element x is present in the array. 
+Return the index of the first occurrence of x in the array,
+ or -1 if it doesn’t exist.*/
 bool Search(int arr[],int n,int key){
     for(int i=0;i<n;i++){
         if(arr[i]==key){
