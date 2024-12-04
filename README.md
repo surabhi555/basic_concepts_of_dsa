@@ -5,3 +5,5 @@
 3.sum of two array
 #strings
 1.length of string
+2.reverse string
+3.check if sstring is palimdrome or not
