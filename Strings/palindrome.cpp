@@ -27,8 +27,7 @@ int getLength(string s){
         count++;
     }
     return count;
-}
-bool isPalindrome(string s) {
+}bool isPalindrome(string s) {
     int len=getLength(s);
     int st=0;
     int e=len-1;
@@ -49,6 +48,7 @@ bool isPalindrome(string s) {
         }
         return true;
     }
+
     int main() {
     
 
