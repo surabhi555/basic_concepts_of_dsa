@@ -35,3 +35,4 @@ char getMaxOccuringChar(string& s) {
 
     return 0;
 }
+//done
