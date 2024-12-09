@@ -1,3 +1,3 @@
 
 #solved
-1.max occurences in string
+1.replace space in string with @40
