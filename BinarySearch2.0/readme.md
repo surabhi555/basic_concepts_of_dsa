@@ -10,3 +10,4 @@ problem 6:count occurences:https://www.geeksforgeeks.org/problems/number-of-occu
 ======Day3======
 problem 7:search in sorted rotated array:https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 problem 8:search in sorted rotated array with duplicates:https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
+problem 9:min in sorted rotated array:https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
