@@ -7,3 +7,5 @@ problrem 4: https://www.codingninjas.com/codestud...
 problem 5:First and Last occurrences:https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 
 problem 6:count occurences:https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=number-of-occurrence
+======Day3======
+problem 7:search in sorted rotated array:https://leetcode.com/problems/search-in-rotated-sorted-array/description/
