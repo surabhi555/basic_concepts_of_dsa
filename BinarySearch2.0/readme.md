@@ -11,3 +11,4 @@ problem 6:count occurences:https://www.geeksforgeeks.org/problems/number-of-occu
 problem 7:search in sorted rotated array:https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 problem 8:search in sorted rotated array with duplicates:https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
 problem 9:min in sorted rotated array:https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+problem 10:find how may times array is rotated:https://www.geeksforgeeks.org/problems/rotation4723/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=rotation
