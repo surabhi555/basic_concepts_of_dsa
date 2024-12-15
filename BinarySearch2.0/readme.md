@@ -9,3 +9,4 @@ problem 5:First and Last occurrences:https://leetcode.com/problems/find-first-an
 problem 6:count occurences:https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=number-of-occurrence
 ======Day3======
 problem 7:search in sorted rotated array:https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+problem 8:search in sorted rotated array with duplicates:https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
