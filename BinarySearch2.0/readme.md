@@ -12,3 +12,6 @@ problem 7:search in sorted rotated array:https://leetcode.com/problems/search-in
 problem 8:search in sorted rotated array with duplicates:https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
 problem 9:min in sorted rotated array:https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
 problem 10:find how may times array is rotated:https://www.geeksforgeeks.org/problems/rotation4723/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=rotation
+=====Day4========
+problem 11:single element in sorted array:
+https://leetcode.com/problems/single-element-in-a-sorted-array/description/
