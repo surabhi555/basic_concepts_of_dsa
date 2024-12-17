@@ -48,3 +48,4 @@ int getLastOcc(vector<int>&nums,int target){
         return{first,last};
     }
 };
+//done
