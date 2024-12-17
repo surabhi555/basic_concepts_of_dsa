@@ -15,3 +15,5 @@ problem 10:find how may times array is rotated:https://www.geeksforgeeks.org/pro
 =====Day4========
 problem 11:single element in sorted array:
 https://leetcode.com/problems/single-element-in-a-sorted-array/description/
+====Day5=========
+problem 12:find peak element in sorted array:https://leetcode.com/problems/find-peak-element
