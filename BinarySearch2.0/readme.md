@@ -17,3 +17,4 @@ problem 11:single element in sorted array:
 https://leetcode.com/problems/single-element-in-a-sorted-array/description/
 ====Day5=========
 problem 12:find peak element in sorted array:https://leetcode.com/problems/find-peak-element
+problem 13:sqareroot of number:https://www.geeksforgeeks.org/problems/square-root/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=square-root
